@@ -1,0 +1,22 @@
+# Data
+data/*.csv
+data/*.csv.gz
+data/*.parquet
+
+# Generated outputs
+results/
+figures/
+predictions.txt
+feature_selection_plot.png
+
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
